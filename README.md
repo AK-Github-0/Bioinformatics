@@ -36,7 +36,7 @@ pip install biopython
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bioinformatics-course.git
+git clone https://github.com/AK-Github-0/bioinformatics-course.git
 ```
 
 2. Explore the folders and files to access practice codes, assignment solutions, and quiz solutions.
@@ -54,6 +54,3 @@ Feel free to contribute by adding more practice codes, improving solutions, or s
 ## License
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-```
-
-You can copy and paste this Markdown text into your README.md file in your Git repository. Make sure to replace "your-username" with your actual GitHub username and customize the content as needed.
