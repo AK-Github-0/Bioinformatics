@@ -17,7 +17,9 @@ This repository is a collection of materials for my Bioinformatics course, inclu
 
 ## Contents
 
-- **Practice Codes**: Python scripts demonstrating various bioinformatics concepts and techniques using Biopython.
+- **Practice Codes**: Python scripts for practicing various bioinformatics concepts and techniques using Biopython.
+ 
+- **Lecture Codes**: Python scripts demonstrating various bioinformatics concepts and techniques using Biopython during Lectures.
 
 - **Assignment Solutions**: Solutions to course assignments for reference (please use responsibly).
 
